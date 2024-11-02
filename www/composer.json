@@ -1,0 +1,15 @@
+{
+    "name": "damofd/www",
+    "autoload": {
+        "psr-4": {
+            "DamoFD\\MagicForm\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "DamoFD",
+            "email": "voshall@yahoo.com"
+        }
+    ],
+    "require": {}
+}
